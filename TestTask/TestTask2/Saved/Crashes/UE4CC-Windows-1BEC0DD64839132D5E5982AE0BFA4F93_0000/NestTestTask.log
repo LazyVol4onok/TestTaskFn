@@ -1,0 +1,1529 @@
+﻿Log file open, 11/23/22 17:50:56
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: NestTestTask
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.162918
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-11700K @ 3.60GHz, GPU: NVIDIA GeForce RTX 3080
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=Vol4onok -epicuserid=a451b198e2394d4ba5ec05f0c88b4984 -epiclocale=ru -epicsandboxid=ue
+LogInit: Base Directory: F:/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [I:/garage-main/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.11.23-14.50.56:315][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.11.23-14.50.56:315][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.11.23-14.50.56:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [I:/garage-main/Saved/Config/Windows/Engine.ini]
+[2022.11.23-14.50.56:315][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.11.23-14.50.56:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [I:/garage-main/Saved/Config/Windows/Engine.ini]
+[2022.11.23-14.50.56:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [I:/garage-main/Saved/Config/Windows/Engine.ini]
+[2022.11.23-14.50.56:315][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.11.23-14.50.56:315][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.11.23-14.50.56:315][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [I:/garage-main/Saved/Config/Windows/Engine.ini]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.11.23-14.50.56:316][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [I:/garage-main/Saved/Config/Windows/Engine.ini]
+[2022.11.23-14.50.56:316][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [I:/garage-main/Saved/Config/Windows/Engine.ini]
+[2022.11.23-14.50.56:321][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [I:/garage-main/Saved/Config/Windows/Scalability.ini]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [I:/garage-main/Saved/Config/Windows/Scalability.ini]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [I:/garage-main/Saved/Config/Windows/Scalability.ini]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [I:/garage-main/Saved/Config/Windows/Scalability.ini]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.23-14.50.56:321][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [I:/garage-main/Saved/Config/Windows/Scalability.ini]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [I:/garage-main/Saved/Config/Windows/Scalability.ini]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [I:/garage-main/Saved/Config/Windows/Scalability.ini]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [I:/garage-main/Saved/Config/Windows/Scalability.ini]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.23-14.50.56:322][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.23-14.50.56:322][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.11.23-14.50.56:322][  0]LogHAL: Display: Platform has ~ 32 GB [34222538752 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.23-14.50.56:322][  0]LogInit: Going up to parent DeviceProfile []
+[2022.11.23-14.50.56:322][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [I:/garage-main/Saved/Config/Windows/Scalability.ini]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [I:/garage-main/Saved/Config/Windows/Scalability.ini]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [I:/garage-main/Saved/Config/Windows/Scalability.ini]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [I:/garage-main/Saved/Config/Windows/Scalability.ini]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [I:/garage-main/Saved/Config/Windows/Scalability.ini]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [I:/garage-main/Saved/Config/Windows/Scalability.ini]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.23-14.50.56:322][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [I:/garage-main/Saved/Config/Windows/Scalability.ini]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [I:/garage-main/Saved/Config/Windows/Scalability.ini]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.11.23-14.50.56:323][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [I:/garage-main/Saved/Config/Windows/Engine.ini]
+[2022.11.23-14.50.56:323][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [I:/garage-main/Saved/Config/Windows/Editor.ini]
+[2022.11.23-14.50.56:323][  0]LogInit: Computer: DESKTOP-KN186GV
+[2022.11.23-14.50.56:323][  0]LogInit: User: lazyv
+[2022.11.23-14.50.56:323][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.11.23-14.50.56:323][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.23-14.50.56:323][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.11.23-14.50.56:323][  0]LogMemory: Platform Memory Stats for Windows
+[2022.11.23-14.50.56:323][  0]LogMemory: Process Physical Memory: 142.61 MB used, 142.61 MB peak
+[2022.11.23-14.50.56:323][  0]LogMemory: Process Virtual Memory: 129.77 MB used, 129.77 MB peak
+[2022.11.23-14.50.56:323][  0]LogMemory: Physical Memory: 10669.80 MB used,  21967.35 MB free, 32637.16 MB total
+[2022.11.23-14.50.56:323][  0]LogMemory: Virtual Memory: 134199008.00 MB used,  18721.80 MB free, 134217728.00 MB total
+[2022.11.23-14.50.56:327][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.23-14.50.56:352][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.11.23-14.50.56:352][  0]LogInit: Using OS detected language (ru-RU).
+[2022.11.23-14.50.56:352][  0]LogInit: Using OS detected locale (en-US).
+[2022.11.23-14.50.56:354][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2022.11.23-14.50.56:354][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.11.23-14.50.56:354][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.11.23-14.50.56:354][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.11.23-14.50.56:354][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.11.23-14.50.56:354][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.11.23-14.50.56:354][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.11.23-14.50.56:354][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.11.23-14.50.56:355][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.23-14.50.56:362][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.11.23-14.50.56:370][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.23-14.50.56:370][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.23-14.50.56:446][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.11.23-14.50.56:446][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.11.23-14.50.56:446][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.11.23-14.50.56:446][  0]LogD3D11RHI: D3D11 adapters:
+[2022.11.23-14.50.56:532][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3080' (Feature Level 11_0)
+[2022.11.23-14.50.56:532][  0]LogD3D11RHI:       10067/0/16318 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.11.23-14.50.56:533][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.11.23-14.50.56:533][  0]LogD3D11RHI:       0/0/16318 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.11.23-14.50.56:533][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.11.23-14.50.56:538][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.11.23-14.50.56:538][  0]LogD3D11RHI:     GPU DeviceId: 0x2216 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.23-14.50.56:538][  0]LogWindows: EnumDisplayDevices:
+[2022.11.23-14.50.56:538][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080' (P:1 D:1)
+[2022.11.23-14.50.56:538][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080' (P:0 D:0)
+[2022.11.23-14.50.56:538][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080' (P:0 D:0)
+[2022.11.23-14.50.56:538][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080' (P:0 D:0)
+[2022.11.23-14.50.56:538][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.11.23-14.50.56:538][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3080
+[2022.11.23-14.50.56:538][  0]LogD3D11RHI:   Driver Version: 526.98 (internal:31.0.15.2698, unified:526.98)
+[2022.11.23-14.50.56:538][  0]LogD3D11RHI:      Driver Date: 11-13-2022
+[2022.11.23-14.50.56:538][  0]LogRHI: Texture pool is 7046 MB (70% of 10067 MB)
+[2022.11.23-14.50.56:582][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.11.23-14.50.56:582][  0]LogD3D11RHI: Async texture creation enabled
+[2022.11.23-14.50.56:582][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.11.23-14.50.56:583][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061083).
+[2022.11.23-14.50.56:608][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.11.23-14.50.56:609][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.11.23-14.50.56:819][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.11.23-14.50.56:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.23-14.50.56:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.23-14.50.56:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.23-14.50.56:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.23-14.50.56:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.23-14.50.56:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.23-14.50.56:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.23-14.50.56:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.23-14.50.56:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.23-14.50.56:833][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.23-14.50.56:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.23-14.50.56:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.23-14.50.56:854][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.23-14.50.56:859][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.11.23-14.50.56:864][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.23-14.50.56:869][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.23-14.50.56:874][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.11.23-14.50.56:879][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.11.23-14.50.56:884][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.11.23-14.50.56:898][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.11.23-14.50.56:898][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.11.23-14.50.56:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.11.23-14.50.56:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.11.23-14.50.56:914][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.11.23-14.50.56:919][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.11.23-14.50.56:928][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.23-14.50.56:928][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.23-14.50.56:933][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.11.23-14.50.56:938][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.23-14.50.56:943][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.23-14.50.56:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.23-14.50.56:948][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.11.23-14.50.56:953][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.23-14.50.56:992][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.23-14.50.56:992][  0]LogShaderCompilers: Guid format shader working directory is 31 characters bigger than the processId version (I:/garage-main/Intermediate/Shaders/WorkingDirectory/25276/).
+[2022.11.23-14.50.56:992][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lazyv/AppData/Local/Temp/UnrealShaderWorkingDir/CA71F05C4D567B9670CC6292691EEDD1/'.
+[2022.11.23-14.50.56:992][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.11.23-14.50.56:992][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.11.23-14.50.57:518][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.11.23-14.50.57:554][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/lazyv/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.11.23-14.50.57:554][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lazyv/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.11.23-14.50.57:554][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file I:/garage-main/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.23-14.50.57:554][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.11.23-14.50.57:554][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file I:/garage-main/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.23-14.50.57:554][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.11.23-14.50.57:563][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.11.23-14.50.57:563][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.23-14.50.57:563][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.11.23-14.50.57:568][  0]LogDerivedDataCache: Speed tests for C:/Users/lazyv/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.23-14.50.57:568][  0]LogDerivedDataCache: Display: Performance to C:/Users/lazyv/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1546.64MBs, RandomWriteSpeed=219.10MBs. Assigned SpeedClass 'Local'
+[2022.11.23-14.50.57:569][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lazyv/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.23-14.50.57:569][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.23-14.50.57:569][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.11.23-14.50.57:601][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.23-14.50.57:602][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.23-14.50.57:617][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2022.11.23-14.50.57:768][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.23-14.50.57:768][  0]LogInit: Active device profile: [0000025A01776000][0000025A00769B00 49] Windows
+[2022.11.23-14.50.57:768][  0]LogInit: Profiles: [0000025A01776000][0000025A00769B00 49] Windows, [0000025A0172BE00][0000025A00771C80 49] WindowsNoEditor, [0000025A01774300][0000025A00774140 49] WindowsServer, [0000025A01728500][0000025A007782C0 49] WindowsClient, [0000025A01777900][0000025A0077C440 49] IOS, [0000025A0172AC00][0000025A007805C0 49] iPadAir, [0000025A01775500][0000025A00784740 49] iPadAir2, [0000025A016D7900][0000025A0078CA00 49] IPadPro, [0000025A016D7A00][0000025A00788A40 49] iPadAir3, [0000025A01776A00][0000025A00790BC0 49] iPadAir4, [0000025A016D6700][0000025A00794D40 49] iPadMini2, [0000025A01774700][0000025A00798EC0 49] iPadMini3, [0000025A016D5200][0000025A0079D040 49] iPadMini4, [0000025A01777400][0000025A007A11C0 49] iPadMini5, [0000025A0170B200][0000025A007A9480 49] iPhone6, [0000025A0170B300][0000025A007A54C0 49] iPodTouch6, [0000025A016D7600][0000025A007AD700 49] iPhone7, [0000025A016D7500][0000025A0076D740 49] iPodTouch7, [0000025A0170A600][0000025A007B1880 49] iPhone5S, [0000025A016D5700][0000025A007B59C0 49] iPhone6Plus, [0000025A01708E00][0000025A007BDB40 49] iPhone6S, [0000025A016D4800][0000025A007C1CC0 49] iPhone6SPlus, [0000025A0170AD00][0000025A007C4180 49] iPhone7Plus, [0000025A016D7E00][0000025A007C8300 49] iPhoneSE, [0000025A0170A700][0000025A007CC480 49] iPhone8, [0000025A016D4D00][0000025A007D0600 49] iPhone8Plus, [0000025A0170A400][0000025A007D4780 49] iPhoneX, [0000025A016D5900][0000025A007D8900 49] iPhoneXS, [0000025A01708700][0000025A007DCA80 49] iPhoneXSMax, [0000025A016D4300][0000025A007E0C00 49] iPhoneXR, [0000025A0170B600][0000025A007E4D80 49] iPhone11, [0000025A016D7300][0000025A007E8F00 49] iPhone11Pro, [0000025A0170A300][0000025A007ED080 49] iPhone11ProMax, [0000025A016D5A00][0000025A007F1200 49] iPhoneSE2, [0000025A01709900][0000025A007F5380 49] iPhone12Mini, [0000025A016D4700][0000025A007F9500 49] iPhone12, [0000025A01708400][0000025A007B9640 49] iPhone12Pro, [0000025A016D4100][0000025A007FD780 49] iPhone12ProMax, [0000025A0170A900][0000025A018118C0 49] iPadPro105, [0000025A016D5500][0000025A01815A00 49] iPadPro129, [0000025A01709700][0000025A0181DB80 49] iPadPro97, [0000025A016D5300][0000025A01821D00 49] iPadPro2_129, [0000025A01709000][0000025A018241C0 49] iPad5, [0000025A016D7B00][0000025A01828340 49] iPad6, [0000025A0172B700][0000025A0183E4C0 49] iPad7, [0000025A0170AF00][0000025A01842640 49] iPad8, [0000025A01729E00][0000025A0189A7C0 49] iPadPro11, [0000025A0170BB00][0000025A018EE940 49] iPadPro2_11, [0000025A0172B100][0000025A018F6AC0 49] iPadPro3_129, [0000025A0170B000][0000025A018FAC40 49] iPadPro4_129, [0000025A0172BA00][0000025A01996DC0 49] AppleTV, [0000025A01709E00][0000025A019A2F40 49] AppleTV4K, [0000025A01728100][0000025A019A70C0 49] TVOS, [0000025A01708600][0000025A019AB240 49] Mac, [0000025A01728600][0000025A019AF3C0 49] MacClient, [0000025A0170A000][0000025A019B3540 49] MacNoEditor, [0000025A01728300][0000025A019B76C0 49] MacServer, [0000025A016D4900][0000025A01819800 49] Linux, [0000025A0172B900][0000025A019BB940 49] LinuxAArch64, [0000025A016D7C00][0000025A019BFA80 49] LinuxNoEditor, [0000025A0172AD00][0000025A019C7C00 49] LinuxAArch64NoEditor, [0000025A016D6C00][0000025A019CA0C0 49] LinuxClient, [0000025A0172AE00][0000025A019CE240 49] LinuxAArch64Client, [0000025A016D6200][0000025A019D23C0 49] LinuxServer, [0000025A01728B00][0000025A019D6540 49] LinuxAArch64Server, [0000025A016D6A00][0000025A019DA6C0 49] Android, [0000025A01729600][0000025A019DE840 49] Android_Low, [0000025A016D4A00][0000025A019E29C0 49] Android_Mid, [0000025A0172B300][0000025A019E6B40 49] Android_High, [0000025A016D5B00][0000025A019EACC0 49] Android_Default, [0000025A0172A500][0000025A019EEE40 49] Android_Adreno4xx, [0000025A016D5000][0000025A019F2FC0 49] Android_Adreno5xx_Low, [0000025A0172BD00][0000025A019F7140 49] Android_Adreno5xx, [0000025A016D5F00][0000025A019FB2C0 49] Android_Adreno6xx, [0000025A01729A00][0000025A019FF440 49] Android_Adreno6xx_Vulkan, [0000025A016D6300][0000025A01A035C0 49] Android_Mali_T6xx, [0000025A01729200][0000025A01A07740 49] Android_Mali_T7xx, [0000025A016D6100][0000025A019C3880 49] Android_Mali_T8xx, [0000025A01729D00][0000025A01A0B9C0 49] Android_Mali_G71, [0000025A016D4500][0000025A01A0FB00 49] Android_Mali_G72, [0000025A01728F00][0000025A01A13C40 49] Android_Mali_G72_Vulkan, [0000025A016D6F00][0000025A01A1E100 49] Android_Mali_G76, [0000025A01729400][0000025A01A40280 49] Android_Mali_G76_Vulkan, [0000025A016D7800][0000025A01A44400 49] Android_Mali_G77, [0000025A01729800][0000025A01A48580 49] Android_Mali_G77_Vulkan, [0000025A016D6B00][0000025A01A4C700 49] Android_Vulkan_SM5, [0000025A0172AB00][0000025A01A50880 49] Android_PowerVR_G6xxx, [0000025A016D7000][0000025A01A54A00 49] Android_PowerVR_GT7xxx, [0000025A0172BC00][0000025A01A58B80 49] Android_PowerVR_GE8xxx, [0000025A016D4C00][0000025A01A5CD00 49] Android_PowerVR_GM9xxx, [0000025A0172A800][0000025A01A60E80 49] Android_PowerVR_GM9xxx_Vulkan, [0000025A016D5600][0000025A01A65000 49] Android_TegraK1, [0000025A01728E00][0000025A01A69180 49] Android_Unknown_Vulkan, [0000025A016D7400][0000025A01A6D300 49] Lumin, [0000025A0172BB00][0000025A01A71480 49] Lumin_Desktop, [0000025A016D7700][0000025A01A75600 49] HoloLens, 
+[2022.11.23-14.50.57:843][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.23-14.50.57:843][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.23-14.50.57:843][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.23-14.50.57:843][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.23-14.50.57:843][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.23-14.50.57:854][  0]LogNetVersion: NestTestTask 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 187675062)
+[2022.11.23-14.50.58:112][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.11.23-14.50.58:131][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.020227 seconds
+[2022.11.23-14.50.58:135][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.11.23-14.50.58:135][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.11.23-14.50.58:135][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.23-14.50.58:370][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.23-14.50.58:374][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.23-14.50.58:457][  0]SourceControl: Source control is disabled
+[2022.11.23-14.50.58:457][  0]SourceControl: Source control is disabled
+[2022.11.23-14.50.58:460][  0]SourceControl: Source control is disabled
+[2022.11.23-14.50.58:462][  0]SourceControl: Source control is disabled
+[2022.11.23-14.50.58:466][  0]SourceControl: Source control is disabled
+[2022.11.23-14.50.58:468][  0]LogUProjectInfo: Found projects:
+[2022.11.23-14.50.58:586][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.23-14.50.58:608][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.23-14.50.58:608][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.23-14.50.58:631][  0]LogCollectionManager: Loaded 0 collections in 0.000882 seconds
+[2022.11.23-14.50.58:646][  0]LogFileCache: Scanning file cache for directory 'I:/garage-main/Saved/Collections/' took 0.00s
+[2022.11.23-14.50.58:646][  0]LogFileCache: Scanning file cache for directory 'I:/garage-main/Content/Developers/lazyv/Collections/' took 0.00s
+[2022.11.23-14.50.58:646][  0]LogFileCache: Scanning file cache for directory 'I:/garage-main/Content/Collections/' took 0.00s
+[2022.11.23-14.50.58:646][  0]LogOcInput: OculusInput pre-init called
+[2022.11.23-14.50.58:652][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.11.23-14.50.58:652][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.11.23-14.50.58:685][  0]LogEngine: Initializing Engine...
+[2022.11.23-14.50.58:686][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.11.23-14.50.58:686][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.11.23-14.50.58:686][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.11.23-14.50.58:750][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.23-14.50.58:755][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.23-14.50.58:761][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.23-14.50.58:764][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.23-14.50.58:764][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.23-14.50.58:764][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.23-14.50.58:764][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.23-14.50.58:764][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.23-14.50.58:764][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.23-14.50.58:764][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.23-14.50.58:764][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.23-14.50.58:764][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.23-14.50.58:764][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.23-14.50.58:764][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.23-14.50.58:764][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.23-14.50.58:771][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.23-14.50.58:771][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.11.23-14.50.58:771][  0]LogAudioMixer: Display: 2: FrontCenter
+[2022.11.23-14.50.58:771][  0]LogAudioMixer: Display: 3: LowFrequency
+[2022.11.23-14.50.58:771][  0]LogAudioMixer: Display: 4: BackLeft
+[2022.11.23-14.50.58:771][  0]LogAudioMixer: Display: 5: BackRight
+[2022.11.23-14.50.58:771][  0]LogAudioMixer: Display: 6: SideLeft
+[2022.11.23-14.50.58:771][  0]LogAudioMixer: Display: 7: SideRight
+[2022.11.23-14.50.58:792][  0]LogAudioMixer: Display: Using Audio Device Динамики (2- Logitech PRO X Wireless Gaming Headset)
+[2022.11.23-14.50.58:794][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.23-14.50.58:796][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.23-14.50.58:796][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.23-14.50.58:796][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.23-14.50.58:796][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.23-14.50.58:796][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.11.23-14.50.58:797][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.23-14.50.58:797][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.23-14.50.58:797][  0]LogInit: FAudioDevice initialized.
+[2022.11.23-14.50.58:797][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.23-14.50.58:797][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.23-14.50.58:925][  0]LogDerivedDataCache: Saved boot cache 0.13s 77MB C:/Users/lazyv/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.11.23-14.50.58:926][  0]LogInit: Texture streaming: Enabled
+[2022.11.23-14.50.58:935][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.11.23-14.50.58:937][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.23-14.50.58:937][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.11.23-14.50.58:938][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.11.23-14.50.58:954][  0]LogInit: Transaction tracking system initialized
+[2022.11.23-14.50.58:968][  0]BlueprintLog: New page: Editor Load
+[2022.11.23-14.50.59:016][  0]LocalizationService: Localization service is disabled
+[2022.11.23-14.50.59:031][  0]TimingProfiler: Initialize
+[2022.11.23-14.50.59:031][  0]TimingProfiler: OnSessionChanged
+[2022.11.23-14.50.59:031][  0]LoadingProfiler: Initialize
+[2022.11.23-14.50.59:031][  0]LoadingProfiler: OnSessionChanged
+[2022.11.23-14.50.59:031][  0]NetworkingProfiler: Initialize
+[2022.11.23-14.50.59:031][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.23-14.50.59:031][  0]MemoryProfiler: Initialize
+[2022.11.23-14.50.59:031][  0]MemoryProfiler: OnSessionChanged
+[2022.11.23-14.50.59:111][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.11.23-14.50.59:112][  0]LogCook: Display: Mobile HDR setting 1
+[2022.11.23-14.50.59:212][  0]LogFileCache: Scanning file cache for directory 'I:/garage-main/Content/' took 0.00s
+[2022.11.23-14.50.59:312][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.23-14.50.59:314][  0]SourceControl: Source control is disabled
+[2022.11.23-14.50.59:314][  0]LogUnrealEdMisc: Loading editor; pre map load, took 3.560
+[2022.11.23-14.50.59:314][  0]Cmd: MAP LOAD FILE="I:/garage-main/Content/Game/Maps/GarageMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.23-14.50.59:314][  0]LogEditorServer: Warning: Can't find file 'I:/garage-main/Content/Game/Maps/GarageMap.umap'
+[2022.11.23-14.50.59:314][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.23-14.50.59:314][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.054ms to complete.
+[2022.11.23-14.50.59:314][  0]LogFileHelpers: Loading map 'GarageMap' took 0.000
+[2022.11.23-14.50.59:316][  0]LogUnrealEdMisc: Total Editor Startup Time, took 3.562
+[2022.11.23-14.50.59:422][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.23-14.50.59:426][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.23-14.50.59:430][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.23-14.50.59:433][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.23-14.50.59:442][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0062 seconds. Added 3601 classes and 859 folders.
+[2022.11.23-14.50.59:444][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.11.23-14.50.59:445][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.23-14.50.59:445][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:445][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.23-14.50.59:445][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2022.11.23-14.50.59:445][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.23-14.50.59:445][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:445][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.23-14.50.59:445][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2022.11.23-14.50.59:445][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.11.23-14.50.59:445][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:445][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.11.23-14.50.59:445][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2022.11.23-14.50.59:446][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.23-14.50.59:446][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:446][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.23-14.50.59:446][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2022.11.23-14.50.59:446][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.23-14.50.59:446][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:446][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.23-14.50.59:446][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.11.23-14.50.59:447][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.23-14.50.59:447][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:447][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.23-14.50.59:447][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.11.23-14.50.59:447][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.23-14.50.59:447][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:447][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.23-14.50.59:447][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.11.23-14.50.59:447][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.23-14.50.59:447][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:447][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.23-14.50.59:447][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.11.23-14.50.59:448][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.23-14.50.59:448][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:448][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.23-14.50.59:448][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.11.23-14.50.59:448][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.23-14.50.59:448][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:448][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.23-14.50.59:448][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.11.23-14.50.59:448][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.23-14.50.59:448][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:448][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.23-14.50.59:448][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.11.23-14.50.59:448][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.23-14.50.59:449][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:449][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.23-14.50.59:449][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.11.23-14.50.59:449][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.23-14.50.59:449][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:449][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.23-14.50.59:449][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.11.23-14.50.59:449][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.23-14.50.59:449][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:449][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.23-14.50.59:449][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.11.23-14.50.59:449][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.23-14.50.59:449][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:449][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.23-14.50.59:450][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.11.23-14.50.59:450][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.23-14.50.59:450][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:450][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.23-14.50.59:450][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.11.23-14.50.59:450][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.23-14.50.59:450][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:450][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.23-14.50.59:450][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.11.23-14.50.59:450][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.23-14.50.59:450][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:450][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.23-14.50.59:450][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.11.23-14.50.59:451][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.23-14.50.59:451][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:451][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.23-14.50.59:451][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.11.23-14.50.59:451][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.23-14.50.59:451][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:451][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.23-14.50.59:451][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.11.23-14.50.59:451][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.23-14.50.59:451][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:451][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.23-14.50.59:451][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.11.23-14.50.59:452][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.23-14.50.59:452][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:452][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.23-14.50.59:452][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.11.23-14.50.59:452][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.11.23-14.50.59:452][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:452][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.11.23-14.50.59:452][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.11.23-14.50.59:452][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.23-14.50.59:452][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:452][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.23-14.50.59:452][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.11.23-14.50.59:453][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.23-14.50.59:453][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:453][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.23-14.50.59:453][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.11.23-14.50.59:453][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.23-14.50.59:453][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.23-14.50.59:453][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.23-14.50.59:453][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.11.23-14.50.59:470][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.11.23-14.50.59:473][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.11.23-14.50.59:537][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.23-14.50.59:538][  0]LogSlate: Took 0.000089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.23-14.50.59:541][  0]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.23-14.50.59:592][  0]LogRenderer: Reallocating scene render targets to support 1616x804 Format 10 NumSamples 1 (Frame:1).
+[2022.11.23-14.50.59:757][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.11.23-14.50.59:757][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.11.23-14.50.59:757][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.11.23-14.50.59:757][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.11.23-14.50.59:757][  0]LogLoad: (Engine Initialization) Total time: 4.00 seconds
+[2022.11.23-14.50.59:757][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.23-14.50.59:757][  0]LogInit: First time updating LLM stats...
+[2022.11.23-14.50.59:785][  0]LogAssetRegistry: Asset discovery search completed in 2.1687 seconds
+[2022.11.23-14.50.59:786][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.11.23-14.50.59:799][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.23-14.51.49:667][866]LogContentBrowser: Attempting asset rename: GarageMap -> TestMap
+[2022.11.23-14.51.49:668][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartBlue': Can't find file.
+[2022.11.23-14.51.49:668][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartBlue': Can't find file.
+[2022.11.23-14.51.49:668][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartGreen': Can't find file.
+[2022.11.23-14.51.49:668][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartGreen': Can't find file.
+[2022.11.23-14.51.49:668][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartRed': Can't find file.
+[2022.11.23-14.51.49:668][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartRed': Can't find file.
+[2022.11.23-14.51.49:693][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndBlue': Can't find file.
+[2022.11.23-14.51.49:693][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndBlue': Can't find file.
+[2022.11.23-14.51.49:693][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndGreen': Can't find file.
+[2022.11.23-14.51.49:693][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndGreen': Can't find file.
+[2022.11.23-14.51.49:693][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndRed': Can't find file.
+[2022.11.23-14.51.49:693][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndRed': Can't find file.
+[2022.11.23-14.51.49:693][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.51.49:693][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.51.49:693][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartBlue': Can't find file.
+[2022.11.23-14.51.49:693][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartGreen': Can't find file.
+[2022.11.23-14.51.49:693][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartRed': Can't find file.
+[2022.11.23-14.51.49:693][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndBlue': Can't find file.
+[2022.11.23-14.51.49:693][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.51.49:693][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartBlue': Can't find file.
+[2022.11.23-14.51.49:693][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartGreen': Can't find file.
+[2022.11.23-14.51.49:694][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartRed': Can't find file.
+[2022.11.23-14.51.49:694][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Maps/GarageMap_BuiltData': Can't find file.
+[2022.11.23-14.51.49:694][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Maps/GarageMap_BuiltData': Can't find file.
+[2022.11.23-14.51.49:694][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndBlue': Can't find file.
+[2022.11.23-14.51.49:694][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndGreen': Can't find file.
+[2022.11.23-14.51.49:694][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndRed': Can't find file.
+[2022.11.23-14.51.49:694][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.51.49:694][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartBlue': Can't find file.
+[2022.11.23-14.51.49:694][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartGreen': Can't find file.
+[2022.11.23-14.51.49:694][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartRed': Can't find file.
+[2022.11.23-14.51.49:694][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Maps/GarageMap_BuiltData': Can't find file.
+[2022.11.23-14.51.49:694][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndBlue': Can't find file.
+[2022.11.23-14.51.49:694][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.51.49:694][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartBlue': Can't find file.
+[2022.11.23-14.51.49:694][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartGreen': Can't find file.
+[2022.11.23-14.51.49:694][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartRed': Can't find file.
+[2022.11.23-14.51.49:694][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartBlue': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartBlue': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartGreen': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartGreen': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartRed': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartRed': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartBlue': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartGreen': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartRed': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndBlue': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndGreen': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndRed': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartBlue': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartGreen': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartRed': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndBlue': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartBlue': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartGreen': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartRed': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Maps/GarageMap_BuiltData': Can't find file.
+[2022.11.23-14.51.49:695][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndBlue': Can't find file.
+[2022.11.23-14.51.49:696][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndGreen': Can't find file.
+[2022.11.23-14.51.49:696][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndRed': Can't find file.
+[2022.11.23-14.51.49:696][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.51.49:696][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartBlue': Can't find file.
+[2022.11.23-14.51.49:696][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartGreen': Can't find file.
+[2022.11.23-14.51.49:696][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartRed': Can't find file.
+[2022.11.23-14.51.49:696][866]LogLinker: Warning: Failed to load '/Game/Game/Maps/GarageMap_BuiltData': Can't find file.
+[2022.11.23-14.51.49:696][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndBlue': Can't find file.
+[2022.11.23-14.51.49:696][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.51.49:696][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartBlue': Can't find file.
+[2022.11.23-14.51.49:696][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartGreen': Can't find file.
+[2022.11.23-14.51.49:696][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/BP_GarageStartRed': Can't find file.
+[2022.11.23-14.51.49:696][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndBlue': Can't find file.
+[2022.11.23-14.51.49:696][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndBlue': Can't find file.
+[2022.11.23-14.51.49:696][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndGreen': Can't find file.
+[2022.11.23-14.51.49:696][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndGreen': Can't find file.
+[2022.11.23-14.51.49:696][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndRed': Can't find file.
+[2022.11.23-14.51.49:696][866]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndRed': Can't find file.
+[2022.11.23-14.51.49:698][866]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Maps\GarageMap.umap: Failed to load '/Game/Game/Maps/GarageMap_BuiltData': Can't find file.
+[2022.11.23-14.51.49:698][866]LoadErrors: Failed to load /Game/Game/Maps/GarageMap_BuiltData.GarageMap_BuiltData Referenced by PersistentLevel
+[2022.11.23-14.51.49:732][866]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.23-14.51.49:743][866]LogMetaData: Removing '/Game/Maps/TestMap.TestMap_C' ref from Metadata '/Game/Maps/GarageMap.PackageMetaData'
+[2022.11.23-14.51.49:743][866]LogMetaData: Removing '/Game/Maps/TestMap.SKEL_TestMap_C' ref from Metadata '/Game/Maps/GarageMap.PackageMetaData'
+[2022.11.23-14.51.49:758][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap" FILE="I:/garage-main/Content/Maps/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.23-14.51.49:763][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.11.23-14.51.49:899][866]LogSavePackage: Moving 'I:/garage-main/Saved/TestMapBB5290F24130F8A92C397DB4483BF52C.tmp' to 'I:/garage-main/Content/Maps/TestMap.umap'
+[2022.11.23-14.51.49:900][866]LogFileHelpers: Saving map 'TestMap' took 0.143
+[2022.11.23-14.51.49:976][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.23-14.51.49:983][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.11.23-14.51.49:986][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2022.11.23-14.51.49:997][866]AssetCheck: New page: Asset Save: TestMap
+[2022.11.23-14.51.49:998][866]LogContentValidation: Display: Validating World /Game/Maps/TestMap.TestMap
+[2022.11.23-14.51.49:998][866]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SpawnPoint': BP_GarageStartBlue_C /Game/Maps/GarageMap.GarageMap:PersistentLevel.BP_GarageStartBlue_6
+[2022.11.23-14.51.49:998][866]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SpawnPoint': BP_GarageStartGreen_C /Game/Maps/GarageMap.GarageMap:PersistentLevel.BP_GarageStartGreen_2
+[2022.11.23-14.51.49:998][866]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SpawnPoint': BP_GarageStartRed_C /Game/Maps/GarageMap.GarageMap:PersistentLevel.BP_GarageStartRed_2
+[2022.11.23-14.51.49:998][866]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_GarageEndBlue_C /Game/Maps/GarageMap.GarageMap:PersistentLevel.BP_GarageEndBlue_2
+[2022.11.23-14.51.49:998][866]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_GarageEndGreen_C /Game/Maps/GarageMap.GarageMap:PersistentLevel.BP_GarageEndGreen_2
+[2022.11.23-14.51.49:998][866]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_GarageEndRed_C /Game/Maps/GarageMap.GarageMap:PersistentLevel.BP_GarageEndRed_8
+[2022.11.23-14.51.49:998][866]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_GarageStartBlue_C /Game/Maps/GarageMap.GarageMap:PersistentLevel.BP_GarageStartBlue_6
+[2022.11.23-14.51.49:998][866]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_GarageStartGreen_C /Game/Maps/GarageMap.GarageMap:PersistentLevel.BP_GarageStartGreen_2
+[2022.11.23-14.51.49:998][866]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_GarageStartRed_C /Game/Maps/GarageMap.GarageMap:PersistentLevel.BP_GarageStartRed_2
+[2022.11.23-14.51.49:998][866]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_GarageEndBlue_C /Game/Maps/GarageMap.GarageMap:PersistentLevel.BP_GarageEndBlue_2
+[2022.11.23-14.51.49:998][866]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_GarageEndGreen_C /Game/Maps/GarageMap.GarageMap:PersistentLevel.BP_GarageEndGreen_2
+[2022.11.23-14.51.49:998][866]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_GarageEndRed_C /Game/Maps/GarageMap.GarageMap:PersistentLevel.BP_GarageEndRed_8
+[2022.11.23-14.51.49:998][866]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'FXPoint': BP_GarageStartBlue_C /Game/Maps/GarageMap.GarageMap:PersistentLevel.BP_GarageStartBlue_6
+[2022.11.23-14.51.49:998][866]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'FXPoint': BP_GarageStartGreen_C /Game/Maps/GarageMap.GarageMap:PersistentLevel.BP_GarageStartGreen_2
+[2022.11.23-14.51.49:998][866]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'FXPoint': BP_GarageStartRed_C /Game/Maps/GarageMap.GarageMap:PersistentLevel.BP_GarageStartRed_2
+[2022.11.23-14.52.00:065][998]LogContentBrowser: Attempting asset rename: GarageMap_BuiltData -> GarageMap_BuiltData
+[2022.11.23-14.52.00:572][  1]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.11.23-14.52.07:374][710]LogContentBrowser: Attempting asset rename: GarageMap_BuiltData -> TestMap_BuiltData
+[2022.11.23-14.52.07:457][710]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap_BuiltData" FILE="I:/garage-main/Content/Maps/TestMap_BuiltData.uasset" SILENT=true
+[2022.11.23-14.52.07:515][710]LogSavePackage: Moving 'I:/garage-main/Saved/TestMap_BuiltData3D7C9E6B4EFB5358BCE5A6A4CEFE196C.tmp' to 'I:/garage-main/Content/Maps/TestMap_BuiltData.uasset'
+[2022.11.23-14.52.07:574][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.11.23-14.52.07:581][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.11.23-14.52.07:583][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2022.11.23-14.52.07:593][710]AssetCheck: New page: Asset Save: TestMap_BuiltData
+[2022.11.23-14.52.07:593][710]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/TestMap_BuiltData.TestMap_BuiltData
+[2022.11.23-14.52.14:032][344]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.11.23-14.52.18:484][821]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/BP_GameMode': Can't find file.
+[2022.11.23-14.52.18:484][821]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/BP_GameMode': Can't find file.
+[2022.11.23-14.52.18:484][821]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Game/Blueprint/BP_GameMode.BP_GameMode_C'
+[2022.11.23-14.52.24:365][383]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.23-14.52.24:371][383]LogSlate: Window 'Project Settings' being destroyed
+[2022.11.23-14.52.25:206][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2022.11.23-14.52.25:225][479]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/TestMap.TestMap
+[2022.11.23-14.52.25:225][479]Cmd: MAP LOAD FILE="I:/garage-main/Content/Maps/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.11.23-14.52.25:225][479]LightingResults: New page: Lighting Build
+[2022.11.23-14.52.25:226][479]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 6 classes and 0 folders.
+[2022.11.23-14.52.25:226][479]LoadErrors: New page: Loading map: TestMap.umap
+[2022.11.23-14.52.25:226][479]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-14.52.25:226][479]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-14.52.25:226][479]MapCheck: New page: Map Check
+[2022.11.23-14.52.25:226][479]LightingResults: New page: Lighting Build
+[2022.11.23-14.52.25:229][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.23-14.52.25:230][479]LogAudio: Display: Audio Device (ID: 1) registered with world 'TestMap'.
+[2022.11.23-14.52.25:262][479]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.23-14.52.25:262][479]LogAIModule: Creating AISystem for world TestMap
+[2022.11.23-14.52.25:267][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.23-14.52.25:273][479]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.23-14.52.25:273][479]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.052ms to complete.
+[2022.11.23-14.52.25:273][479]LogFileHelpers: Loading map 'TestMap' took 0.047
+[2022.11.23-14.52.27:096][675]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.23-14.52.27:100][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.23-14.52.27:100][675]PIE: New page: PIE session: TestMap (Nov 23, 2022, 8:52:27 PM)
+[2022.11.23-14.52.27:101][675]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.11.23-14.52.27:101][675]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.11.23-14.52.27:101][675]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2022.11.23-14.52.27:108][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006455s)
+[2022.11.23-14.52.27:109][675]LogAIModule: Creating AISystem for world TestMap
+[2022.11.23-14.52.27:109][675]LogPlayLevel: PIE: World Init took: (0.000956s)
+[2022.11.23-14.52.27:109][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.007558s)
+[2022.11.23-14.52.27:112][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.11.23-14.52.27:113][675]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.11.23-14.52.27:113][675]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.23-14.52.27:113][675]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.23-14.52.27:113][675]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.23-14.52.27:113][675]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.23-14.52.27:113][675]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.23-14.52.27:113][675]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.23-14.52.27:113][675]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.23-14.52.27:113][675]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.23-14.52.27:114][675]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.23-14.52.27:114][675]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.23-14.52.27:117][675]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.23-14.52.27:117][675]LogAudioMixer: Display: 1: FrontRight
+[2022.11.23-14.52.27:117][675]LogAudioMixer: Display: 2: FrontCenter
+[2022.11.23-14.52.27:117][675]LogAudioMixer: Display: 3: LowFrequency
+[2022.11.23-14.52.27:117][675]LogAudioMixer: Display: 4: BackLeft
+[2022.11.23-14.52.27:117][675]LogAudioMixer: Display: 5: BackRight
+[2022.11.23-14.52.27:117][675]LogAudioMixer: Display: 6: SideLeft
+[2022.11.23-14.52.27:117][675]LogAudioMixer: Display: 7: SideRight
+[2022.11.23-14.52.27:127][675]LogAudioMixer: Display: Using Audio Device Динамики (2- Logitech PRO X Wireless Gaming Headset)
+[2022.11.23-14.52.27:127][675]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.23-14.52.27:127][675]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.23-14.52.27:127][675]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.23-14.52.27:127][675]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.23-14.52.27:127][675]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.23-14.52.27:127][675]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.11.23-14.52.27:136][675]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.23-14.52.27:136][675]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.23-14.52.27:136][675]LogInit: FAudioDevice initialized.
+[2022.11.23-14.52.27:136][675]LogAudio: Display: Audio Device (ID: 2) registered with world 'TestMap'.
+[2022.11.23-14.52.27:145][675]LogLoad: Game class is 'GameModeBase'
+[2022.11.23-14.52.27:145][675]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2022.11.23-17.52.27
+[2022.11.23-14.52.27:146][675]LogWorld: Bringing up level for play took: 0.000485
+[2022.11.23-14.52.27:146][675]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2022.11.23-14.52.27:147][675]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2022.11.23-14.52.27:148][675]PIE: Server logged in
+[2022.11.23-14.52.27:149][675]PIE: Play in editor total start time 0.051 seconds.
+[2022.11.23-14.52.29:146][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.23-14.52.29:146][901]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2022.11.23-14.52.29:147][901]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-14.52.29:147][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-14.52.29:153][901]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.23-14.52.29:154][901]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-14.52.29:157][901]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.23-14.52.29:157][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.23-14.52.29:158][901]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.23-14.52.29:168][901]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.23-14.52.29:169][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.11.23-14.52.29:229][908]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.11.23-14.52.33:428][313]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.23-14.52.33:429][313]EditorErrors: Error: Failed to load class /Game/Game/Blueprint/BP_GameMode.BP_GameMode_C
+[2022.11.23-14.52.34:340][412]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.23-14.52.34:343][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.23-14.52.34:343][412]PIE: New page: PIE session: TestMap (Nov 23, 2022, 8:52:34 PM)
+[2022.11.23-14.52.34:344][412]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2022.11.23-14.52.34:350][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006280s)
+[2022.11.23-14.52.34:351][412]LogAIModule: Creating AISystem for world TestMap
+[2022.11.23-14.52.34:351][412]LogPlayLevel: PIE: World Init took: (0.000925s)
+[2022.11.23-14.52.34:351][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.007344s)
+[2022.11.23-14.52.34:354][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.11.23-14.52.34:355][412]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.11.23-14.52.34:355][412]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.23-14.52.34:355][412]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.23-14.52.34:355][412]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.23-14.52.34:355][412]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.23-14.52.34:355][412]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.23-14.52.34:355][412]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.23-14.52.34:355][412]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.23-14.52.34:355][412]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.23-14.52.34:356][412]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.23-14.52.34:356][412]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.23-14.52.34:359][412]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.23-14.52.34:359][412]LogAudioMixer: Display: 1: FrontRight
+[2022.11.23-14.52.34:359][412]LogAudioMixer: Display: 2: FrontCenter
+[2022.11.23-14.52.34:359][412]LogAudioMixer: Display: 3: LowFrequency
+[2022.11.23-14.52.34:359][412]LogAudioMixer: Display: 4: BackLeft
+[2022.11.23-14.52.34:359][412]LogAudioMixer: Display: 5: BackRight
+[2022.11.23-14.52.34:359][412]LogAudioMixer: Display: 6: SideLeft
+[2022.11.23-14.52.34:359][412]LogAudioMixer: Display: 7: SideRight
+[2022.11.23-14.52.34:368][412]LogAudioMixer: Display: Using Audio Device Динамики (2- Logitech PRO X Wireless Gaming Headset)
+[2022.11.23-14.52.34:368][412]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.23-14.52.34:368][412]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.23-14.52.34:368][412]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.23-14.52.34:369][412]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.23-14.52.34:369][412]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.23-14.52.34:369][412]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.11.23-14.52.34:377][412]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.23-14.52.34:377][412]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.23-14.52.34:377][412]LogInit: FAudioDevice initialized.
+[2022.11.23-14.52.34:377][412]LogAudio: Display: Audio Device (ID: 3) registered with world 'TestMap'.
+[2022.11.23-14.52.34:387][412]LogLoad: Game class is 'GameModeBase'
+[2022.11.23-14.52.34:388][412]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2022.11.23-17.52.34
+[2022.11.23-14.52.34:388][412]LogWorld: Bringing up level for play took: 0.000434
+[2022.11.23-14.52.34:388][412]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.11.23-14.52.34:390][412]PIE: Server logged in
+[2022.11.23-14.52.34:390][412]PIE: Play in editor total start time 0.047 seconds.
+[2022.11.23-14.52.38:006][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.23-14.52.38:006][828]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2022.11.23-14.52.38:007][828]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-14.52.38:007][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-14.52.38:016][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.23-14.52.38:018][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-14.52.38:024][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.23-14.52.38:024][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.23-14.52.38:025][828]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.23-14.52.38:039][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.11.23-14.52.38:089][832]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.11.23-14.52.39:480][968]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.23-14.52.39:480][968]EditorErrors: Error: Failed to load class /Game/Game/Blueprint/BP_GameMode.BP_GameMode_C
+[2022.11.23-14.52.43:579][342]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.23-14.52.43:583][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.23-14.52.43:583][342]PIE: New page: PIE session: TestMap (Nov 23, 2022, 8:52:43 PM)
+[2022.11.23-14.52.43:583][342]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2022.11.23-14.52.43:589][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006253s)
+[2022.11.23-14.52.43:590][342]LogAIModule: Creating AISystem for world TestMap
+[2022.11.23-14.52.43:590][342]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2022.11.23-14.52.43:590][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.007472s)
+[2022.11.23-14.52.43:594][342]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.11.23-14.52.43:595][342]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.11.23-14.52.43:595][342]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.23-14.52.43:595][342]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.23-14.52.43:595][342]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.23-14.52.43:595][342]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.23-14.52.43:595][342]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.23-14.52.43:595][342]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.23-14.52.43:595][342]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.23-14.52.43:595][342]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.23-14.52.43:595][342]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.23-14.52.43:595][342]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.23-14.52.43:598][342]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.23-14.52.43:598][342]LogAudioMixer: Display: 1: FrontRight
+[2022.11.23-14.52.43:598][342]LogAudioMixer: Display: 2: FrontCenter
+[2022.11.23-14.52.43:598][342]LogAudioMixer: Display: 3: LowFrequency
+[2022.11.23-14.52.43:598][342]LogAudioMixer: Display: 4: BackLeft
+[2022.11.23-14.52.43:598][342]LogAudioMixer: Display: 5: BackRight
+[2022.11.23-14.52.43:598][342]LogAudioMixer: Display: 6: SideLeft
+[2022.11.23-14.52.43:598][342]LogAudioMixer: Display: 7: SideRight
+[2022.11.23-14.52.43:608][342]LogAudioMixer: Display: Using Audio Device Динамики (2- Logitech PRO X Wireless Gaming Headset)
+[2022.11.23-14.52.43:608][342]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.23-14.52.43:609][342]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.23-14.52.43:609][342]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.23-14.52.43:609][342]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.23-14.52.43:609][342]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.23-14.52.43:609][342]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.11.23-14.52.43:617][342]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.23-14.52.43:617][342]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.23-14.52.43:617][342]LogInit: FAudioDevice initialized.
+[2022.11.23-14.52.43:617][342]LogAudio: Display: Audio Device (ID: 4) registered with world 'TestMap'.
+[2022.11.23-14.52.43:622][342]LogLoad: Game class is 'GameMode'
+[2022.11.23-14.52.43:623][342]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2022.11.23-17.52.43
+[2022.11.23-14.52.43:623][342]LogWorld: Bringing up level for play took: 0.000442
+[2022.11.23-14.52.43:623][342]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2022.11.23-14.52.43:624][342]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.23-14.52.43:624][342]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2022.11.23-14.52.43:624][342]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2022.11.23-14.52.43:624][342]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2022.11.23-14.52.43:624][342]PIE: Server logged in
+[2022.11.23-14.52.43:625][342]PIE: Play in editor total start time 0.043 seconds.
+[2022.11.23-14.52.45:116][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.23-14.52.45:116][509]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2022.11.23-14.52.45:116][509]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-14.52.45:116][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-14.52.45:126][509]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.23-14.52.45:127][509]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-14.52.45:130][509]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.23-14.52.45:130][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.23-14.52.45:131][509]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.23-14.52.45:142][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.11.23-14.52.45:188][513]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.11.23-14.52.49:498][951]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\BP_GameMode.uasset: Failed to load '/Game/Game/UI/BP_HUD': Can't find file.
+[2022.11.23-14.52.49:498][951]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\BP_GameMode.uasset: Failed to load '/Game/Game/UI/BP_HUD': Can't find file.
+[2022.11.23-14.52.49:498][951]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\BP_GameMode.uasset: Failed to load '/Game/Game/UI/BP_HUD': Can't find file.
+[2022.11.23-14.52.49:498][951]LogLinker: Warning: Failed to load '/Game/Game/UI/BP_HUD': Can't find file.
+[2022.11.23-14.52.49:498][951]LogLinker: Warning: Failed to load '/Game/Game/UI/BP_HUD': Can't find file.
+[2022.11.23-14.52.49:498][951]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\BP_GameMode.uasset: Failed to load '/Game/Game/UI/BP_HUD': Can't find file.
+[2022.11.23-14.52.49:498][951]LoadErrors: Failed to load /Game/Game/UI/BP_HUD.BP_HUD_C Referenced by Default__BP_GameMode_C
+[2022.11.23-14.52.49:509][951]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/BP_GameMode.BP_GameMode
+[2022.11.23-14.52.49:583][951]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2022.11.23-14.52.52:529][208]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.23-14.52.56:497][594]BlueprintLog: New page: Compile BP_GameMode
+[2022.11.23-14.52.56:517][594]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.11.23-14.52.56:955][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprint/BP_GameMode" FILE="I:/garage-main/Content/Blueprint/BP_GameMode.uasset" SILENT=true
+[2022.11.23-14.52.56:958][628]LogSavePackage: Moving 'I:/garage-main/Saved/BP_GameMode9C2851474F0C20DD1B39288C432CA4F4.tmp' to 'I:/garage-main/Content/Blueprint/BP_GameMode.uasset'
+[2022.11.23-14.52.56:966][628]AssetCheck: New page: Asset Save: BP_GameMode
+[2022.11.23-14.52.56:966][628]LogContentValidation: Display: Validating Blueprint /Game/Blueprint/BP_GameMode.BP_GameMode
+[2022.11.23-14.52.57:880][714]LogSlate: Window 'BP_GameMode' being destroyed
+[2022.11.23-14.52.57:883][714]LogSlate: Window 'BP_GameMode' being destroyed
+[2022.11.23-14.52.57:884][714]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-14.52.57:884][714]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-14.52.59:019][839]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.23-14.53.01:114][ 43]LogTemp: Repeating last play command: Selected Viewport
+[2022.11.23-14.53.01:118][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.23-14.53.01:118][ 43]PIE: New page: PIE session: TestMap (Nov 23, 2022, 8:53:01 PM)
+[2022.11.23-14.53.01:118][ 43]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_TestMap
+[2022.11.23-14.53.01:124][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006327s)
+[2022.11.23-14.53.01:125][ 43]LogAIModule: Creating AISystem for world TestMap
+[2022.11.23-14.53.01:125][ 43]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2022.11.23-14.53.01:125][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap.TestMap to /Game/Maps/UEDPIE_0_TestMap.TestMap (0.007490s)
+[2022.11.23-14.53.01:138][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.11.23-14.53.01:139][ 43]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.11.23-14.53.01:139][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.23-14.53.01:139][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.23-14.53.01:139][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.23-14.53.01:139][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.23-14.53.01:139][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.23-14.53.01:139][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.23-14.53.01:139][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.23-14.53.01:139][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.23-14.53.01:139][ 43]LogAudio: Display: Using built-in audio occlusion.
+[2022.11.23-14.53.01:139][ 43]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.23-14.53.01:142][ 43]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.23-14.53.01:142][ 43]LogAudioMixer: Display: 1: FrontRight
+[2022.11.23-14.53.01:142][ 43]LogAudioMixer: Display: 2: FrontCenter
+[2022.11.23-14.53.01:142][ 43]LogAudioMixer: Display: 3: LowFrequency
+[2022.11.23-14.53.01:142][ 43]LogAudioMixer: Display: 4: BackLeft
+[2022.11.23-14.53.01:142][ 43]LogAudioMixer: Display: 5: BackRight
+[2022.11.23-14.53.01:142][ 43]LogAudioMixer: Display: 6: SideLeft
+[2022.11.23-14.53.01:142][ 43]LogAudioMixer: Display: 7: SideRight
+[2022.11.23-14.53.01:150][ 43]LogAudioMixer: Display: Using Audio Device Динамики (2- Logitech PRO X Wireless Gaming Headset)
+[2022.11.23-14.53.01:150][ 43]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.23-14.53.01:150][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.23-14.53.01:150][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.23-14.53.01:150][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.23-14.53.01:150][ 43]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.23-14.53.01:150][ 43]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192
+[2022.11.23-14.53.01:159][ 43]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.23-14.53.01:159][ 43]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.23-14.53.01:159][ 43]LogInit: FAudioDevice initialized.
+[2022.11.23-14.53.01:159][ 43]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestMap'.
+[2022.11.23-14.53.01:167][ 43]LogLoad: Game class is 'BP_GameMode_C'
+[2022.11.23-14.53.01:168][ 43]LogWorld: Bringing World /Game/Maps/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2022.11.23-17.53.01
+[2022.11.23-14.53.01:168][ 43]LogWorld: Bringing up level for play took: 0.000444
+[2022.11.23-14.53.01:168][ 43]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.11.23-14.53.01:169][ 43]PIE: Server logged in
+[2022.11.23-14.53.01:169][ 43]PIE: Play in editor total start time 0.053 seconds.
+[2022.11.23-14.53.02:756][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.23-14.53.02:756][225]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_TestMap
+[2022.11.23-14.53.02:756][225]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-14.53.02:756][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-14.53.02:765][225]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.23-14.53.02:767][225]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-14.53.02:775][225]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.23-14.53.02:775][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.23-14.53.02:776][225]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.11.23-14.53.02:787][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.23-14.53.02:788][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.11.23-14.53.02:821][227]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.11.23-14.53.09:923][958]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/BP_GameMode.BP_GameMode
+[2022.11.23-14.53.12:782][223]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.23-14.53.12:782][223]LogLinker: Warning: Failed to load '/Game/Game/UI/BP_HUD': Can't find file.
+[2022.11.23-14.53.12:782][223]LogLinker: Warning: Failed to load '/Game/Game/UI/BP_HUD': Can't find file.
+[2022.11.23-14.53.12:782][223]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Game/UI/BP_HUD.BP_HUD_C'
+[2022.11.23-14.53.12:782][223]EditorErrors: Error: Failed to load class /Game/Game/UI/BP_HUD.BP_HUD_C
+[2022.11.23-14.53.15:703][504]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.23-14.53.15:704][504]EditorErrors: Error: Failed to load class /Game/Game/UI/BP_HUD.BP_HUD_C
+[2022.11.23-14.53.21:187][ 16]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\BP_HUD.uasset: Failed to load '/Game/Game/UI/WB_Buttons': Can't find file.
+[2022.11.23-14.53.21:187][ 16]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\BP_HUD.uasset: Failed to load '/Game/Game/UI/WB_Buttons': Can't find file.
+[2022.11.23-14.53.21:187][ 16]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\BP_HUD.uasset: Failed to load '/Game/Game/UI/WB_Buttons': Can't find file.
+[2022.11.23-14.53.21:188][ 16]LogLinker: Warning: Failed to load '/Game/Game/UI/WB_Buttons': Can't find file.
+[2022.11.23-14.53.21:188][ 16]LogLinker: Warning: Failed to load '/Game/Game/UI/WB_Buttons': Can't find file.
+[2022.11.23-14.53.21:188][ 16]LogLinker: Warning: Failed to load '/Game/Game/UI/WB_Buttons': Can't find file.
+[2022.11.23-14.53.21:189][ 16]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\BP_HUD.uasset: Failed to load '/Game/Game/UI/WB_Buttons': Can't find file.
+[2022.11.23-14.53.21:189][ 16]LoadErrors: Failed to load /Game/Game/UI/WB_Buttons.WB_Buttons_C Referenced by K2Node_CreateWidget_0
+[2022.11.23-14.53.21:189][ 16]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\BP_HUD.uasset: Failed to load '/Game/Game/UI/WB_Buttons': Can't find file.
+[2022.11.23-14.53.21:191][ 16]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\BP_HUD.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.11.23-14.53.21:240][ 16]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/BP_HUD.BP_HUD
+[2022.11.23-14.53.21:518][ 16]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.23-14.53.21:532][ 16]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.11.23-14.53.21:540][ 17]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.23-14.53.22:890][164]BlueprintLog: New page: Compile BP_HUD
+[2022.11.23-14.53.22:891][164]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\BP_HUD.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2022.11.23-14.53.22:912][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.11.23-14.53.42:706][431]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.23-14.53.44:638][610]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.23-14.53.44:638][610]LogLinker: Warning: Failed to load '/Game/Game/UI/WB_Buttons': Can't find file.
+[2022.11.23-14.53.44:638][610]LogLinker: Warning: Failed to load '/Game/Game/UI/WB_Buttons': Can't find file.
+[2022.11.23-14.53.44:638][610]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Game/UI/WB_Buttons.WB_Buttons_C'
+[2022.11.23-14.53.44:638][610]EditorErrors: Error: Failed to load class /Game/Game/UI/WB_Buttons.WB_Buttons_C
+[2022.11.23-14.53.50:193][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Interface/BI_Widgets': Can't find file.
+[2022.11.23-14.53.50:193][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Interface/BI_Widgets': Can't find file.
+[2022.11.23-14.53.50:193][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Nest/Start/Start1': Can't find file.
+[2022.11.23-14.53.50:193][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Nest/Start/Start1': Can't find file.
+[2022.11.23-14.53.50:193][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Nest/Start/Start2': Can't find file.
+[2022.11.23-14.53.50:193][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Nest/Start/Start2': Can't find file.
+[2022.11.23-14.53.50:193][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Nest/Start/Start3': Can't find file.
+[2022.11.23-14.53.50:193][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Nest/Start/Start3': Can't find file.
+[2022.11.23-14.53.50:194][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Interface/BI_Widgets': Can't find file.
+[2022.11.23-14.53.50:194][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Nest/Start/Start1': Can't find file.
+[2022.11.23-14.53.50:194][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Nest/Start/Start2': Can't find file.
+[2022.11.23-14.53.50:194][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Nest/Start/Start3': Can't find file.
+[2022.11.23-14.53.50:194][164]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Interface/BI_Widgets': Can't find file.
+[2022.11.23-14.53.50:194][164]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/Start1': Can't find file.
+[2022.11.23-14.53.50:194][164]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/Start2': Can't find file.
+[2022.11.23-14.53.50:194][164]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/Start3': Can't find file.
+[2022.11.23-14.53.50:194][164]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Interface/BI_Widgets': Can't find file.
+[2022.11.23-14.53.50:194][164]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/Start1': Can't find file.
+[2022.11.23-14.53.50:194][164]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/Start2': Can't find file.
+[2022.11.23-14.53.50:194][164]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/Start3': Can't find file.
+[2022.11.23-14.53.50:194][164]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Interface/BI_Widgets': Can't find file.
+[2022.11.23-14.53.50:194][164]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/Start1': Can't find file.
+[2022.11.23-14.53.50:194][164]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/Start2': Can't find file.
+[2022.11.23-14.53.50:194][164]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/Start3': Can't find file.
+[2022.11.23-14.53.50:195][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Interface/BI_Widgets': Can't find file.
+[2022.11.23-14.53.50:195][164]LoadErrors: Failed to load /Game/Game/Blueprint/Interface/BI_Widgets.BI_Widgets_C Referenced by K2Node_Message_0
+[2022.11.23-14.53.50:195][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Interface/BI_Widgets': Can't find file.
+[2022.11.23-14.53.50:195][164]LoadErrors: Failed to load /Game/Game/Blueprint/Interface/BI_Widgets.BI_Widgets_C Referenced by K2Node_Message_1
+[2022.11.23-14.53.50:195][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Interface/BI_Widgets': Can't find file.
+[2022.11.23-14.53.50:195][164]LoadErrors: Failed to load /Game/Game/Blueprint/Interface/BI_Widgets.BI_Widgets_C Referenced by K2Node_Message_2
+[2022.11.23-14.53.50:195][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Nest/Start/Start1': Can't find file.
+[2022.11.23-14.53.50:195][164]LoadErrors: Failed to load /Game/Game/Blueprint/Nest/Start/Start1.Start1_C Referenced by K2Node_CallFunction_1
+[2022.11.23-14.53.50:196][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Nest/Start/Start1': Can't find file.
+[2022.11.23-14.53.50:196][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Nest/Start/Start2': Can't find file.
+[2022.11.23-14.53.50:196][164]LoadErrors: Failed to load /Game/Game/Blueprint/Nest/Start/Start2.Start2_C Referenced by K2Node_CallFunction_2
+[2022.11.23-14.53.50:196][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Nest/Start/Start2': Can't find file.
+[2022.11.23-14.53.50:196][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Nest/Start/Start3': Can't find file.
+[2022.11.23-14.53.50:196][164]LoadErrors: Failed to load /Game/Game/Blueprint/Nest/Start/Start3.Start3_C Referenced by K2Node_CallFunction_0
+[2022.11.23-14.53.50:196][164]LogLinker: Warning: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: Failed to load '/Game/Game/Blueprint/Nest/Start/Start3': Can't find file.
+[2022.11.23-14.53.50:197][164]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] Message node  Invalid Message Node  has an invalid interface.
+[2022.11.23-14.53.50:197][164]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] Message node  Invalid Message Node  has an invalid interface.
+[2022.11.23-14.53.50:197][164]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] Message node  Invalid Message Node  has an invalid interface.
+[2022.11.23-14.53.50:198][164]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] Invalid pin connection from ' Return Value ' to ' Target '. You may have changed the type after the connections were made.
+[2022.11.23-14.53.50:198][164]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] Invalid pin connection from ' Return Value ' to ' Target '. You may have changed the type after the connections were made.
+[2022.11.23-14.53.50:198][164]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] Invalid pin connection from ' Return Value ' to ' Target '. You may have changed the type after the connections were made.
+[2022.11.23-14.53.50:198][164]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.53.50:198][164]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.53.50:198][164]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] Could not find a function named "Press1" in 'WB_Buttons'.
+Make sure 'WB_Buttons' has been compiled for  Invalid Message Node
+[2022.11.23-14.53.50:198][164]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.53.50:198][164]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.53.50:198][164]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] Could not find a function named "Press2" in 'WB_Buttons'.
+Make sure 'WB_Buttons' has been compiled for  Invalid Message Node
+[2022.11.23-14.53.50:198][164]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.53.50:198][164]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.53.50:198][164]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] Could not find a function named "Press3" in 'WB_Buttons'.
+Make sure 'WB_Buttons' has been compiled for  Invalid Message Node
+[2022.11.23-14.53.50:240][164]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_Buttons.WB_Buttons
+[2022.11.23-14.54.07:061][ 42]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.23-14.54.26:815][145]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.23-14.54.26:815][145]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Start/Start1': Can't find file.
+[2022.11.23-14.54.26:815][145]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Game/Blueprint/Nest/Start/Start1.Start1_C'
+[2022.11.23-14.54.26:815][145]EditorErrors: Error: Failed to load class /Game/Game/Blueprint/Nest/Start/Start1.Start1_C
+[2022.11.23-14.54.35:273][965]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.23-14.54.35:273][965]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestStart': Can't find file.
+[2022.11.23-14.54.35:273][965]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestStart': Can't find file.
+[2022.11.23-14.54.35:273][965]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Game/Blueprint/Nest/Parents/NestStart.NestStart_C'
+[2022.11.23-14.54.35:273][965]EditorErrors: Error: Failed to load class /Game/Game/Blueprint/Nest/Parents/NestStart.NestStart_C
+[2022.11.23-14.54.45:570][994]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: Failed to load '/Game/Game/Blueprint/AI/AIChar': Can't find file.
+[2022.11.23-14.54.45:570][994]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: Failed to load '/Game/Game/Blueprint/AI/AIChar': Can't find file.
+[2022.11.23-14.54.45:570][994]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: Failed to load '/Game/Game/Blueprint/Interface/BI_SendAIController': Can't find file.
+[2022.11.23-14.54.45:570][994]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: Failed to load '/Game/Game/Blueprint/Interface/BI_SendAIController': Can't find file.
+[2022.11.23-14.54.45:570][994]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.54.45:570][994]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.54.45:570][994]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: Failed to load '/Game/Game/Blueprint/AI/AIChar': Can't find file.
+[2022.11.23-14.54.45:570][994]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: Failed to load '/Game/Game/Blueprint/Interface/BI_SendAIController': Can't find file.
+[2022.11.23-14.54.45:570][994]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.54.45:570][994]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: Failed to load '/Game/Game/Mannequin/Character/Mesh/SK_Mannequin_Female': Can't find file.
+[2022.11.23-14.54.45:571][994]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: Failed to load '/Game/Game/Mannequin/Character/Mesh/SK_Mannequin_Female': Can't find file.
+[2022.11.23-14.54.45:571][994]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: Failed to load '/Game/Game/Mannequin/Character/Mesh/SK_Mannequin_Female': Can't find file.
+[2022.11.23-14.54.45:573][994]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/AI/AIChar': Can't find file.
+[2022.11.23-14.54.45:573][994]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Interface/BI_SendAIController': Can't find file.
+[2022.11.23-14.54.45:573][994]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.54.45:573][994]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/AI/AIChar': Can't find file.
+[2022.11.23-14.54.45:573][994]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Interface/BI_SendAIController': Can't find file.
+[2022.11.23-14.54.45:573][994]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.54.45:573][994]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/AI/AIChar': Can't find file.
+[2022.11.23-14.54.45:573][994]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Interface/BI_SendAIController': Can't find file.
+[2022.11.23-14.54.45:573][994]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.54.45:573][994]LogLinker: Warning: Failed to load '/Game/Game/Mannequin/Character/Mesh/SK_Mannequin_Female': Can't find file.
+[2022.11.23-14.54.45:573][994]LogLinker: Warning: Failed to load '/Game/Game/Mannequin/Character/Mesh/SK_Mannequin_Female': Can't find file.
+[2022.11.23-14.54.45:573][994]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: Failed to load '/Game/Game/Mannequin/Character/Mesh/SK_Mannequin_Female': Can't find file.
+[2022.11.23-14.54.45:573][994]LoadErrors: Failed to load /Game/Game/Mannequin/Character/Mesh/SK_Mannequin_Female.SK_Mannequin_Female Referenced by Default__NestStart_C
+[2022.11.23-14.54.45:574][994]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.54.45:574][994]LoadErrors: Failed to load /Game/Game/Blueprint/Nest/Parents/NestEnd.NestEnd_C Referenced by NestStart
+[2022.11.23-14.54.45:574][994]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: Failed to load '/Game/Game/Blueprint/AI/AIChar': Can't find file.
+[2022.11.23-14.54.45:574][994]LoadErrors: Failed to load /Game/Game/Blueprint/AI/AIChar.AIChar_C Referenced by NestStart
+[2022.11.23-14.54.45:574][994]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.54.45:574][994]LoadErrors: Failed to load /Game/Game/Blueprint/Nest/Parents/NestEnd.NestEnd_C Referenced by K2Node_VariableGet_7
+[2022.11.23-14.54.45:575][994]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: Failed to load '/Game/Game/Blueprint/AI/AIChar': Can't find file.
+[2022.11.23-14.54.45:575][994]LoadErrors: Failed to load /Game/Game/Blueprint/AI/AIChar.AIChar_C Referenced by K2Node_VariableGet_5
+[2022.11.23-14.54.45:575][994]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: Failed to load '/Game/Game/Blueprint/Interface/BI_SendAIController': Can't find file.
+[2022.11.23-14.54.45:575][994]LoadErrors: Failed to load /Game/Game/Blueprint/Interface/BI_SendAIController.BI_SendAIController_C Referenced by K2Node_Message_0
+[2022.11.23-14.54.45:575][994]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.54.45:575][994]LoadErrors: Failed to load /Game/Game/Blueprint/Nest/Parents/NestEnd.NestEnd_C Referenced by K2Node_Message_0
+[2022.11.23-14.54.45:575][994]LogBlueprint: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: [Compiler] Invalid property 'AI' class, replaced with Object.  Please fix or remove.
+[2022.11.23-14.54.45:575][994]LogBlueprint: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: [Compiler] Invalid property 'End' class, replaced with Object.  Please fix or remove.
+[2022.11.23-14.54.45:576][994]LogBlueprint: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: [Compiler] Invalid property 'AI' class, replaced with Object.  Please fix or remove.
+[2022.11.23-14.54.45:576][994]LogBlueprint: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: [Compiler] Invalid property 'End' class, replaced with Object.  Please fix or remove.
+[2022.11.23-14.54.45:577][994]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: [Compiler] Message node  Invalid Message Node  has an invalid interface.
+[2022.11.23-14.54.45:577][994]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.54.45:577][994]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: [Compiler] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.54.45:577][994]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: [Compiler] In use pin  Start  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.54.45:577][994]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: [Compiler] In use pin  End  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.54.45:577][994]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: [Compiler] In use pin  End Time  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.54.45:577][994]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: [Compiler] In use pin  Start Time  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.54.45:578][994]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: [Compiler] In use pin  Start 2  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.54.45:578][994]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: [Compiler] In use pin  Stop  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.54.45:578][994]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: [Compiler] In use pin  Stop Time  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.54.45:578][994]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: [Compiler] Could not find a function named "SendAIController" in 'NestStart'.
+Make sure 'NestStart' has been compiled for  Invalid Message Node
+[2022.11.23-14.54.45:578][994]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: [Compiler] In use pin  AI  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.23-14.54.45:578][994]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Parents\NestStart.uasset: [Compiler] In use pin  End  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.23-14.54.45:595][994]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Nest/Parents/NestStart.NestStart
+[2022.11.23-14.54.58:894][499]LogSlate: Window 'NestStart' being destroyed
+[2022.11.23-14.54.58:897][499]LogSlate: Window 'NestStart' being destroyed
+[2022.11.23-14.54.58:900][499]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-14.54.58:900][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-14.54.58:934][499]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.23-14.54.58:934][499]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-14.54.58:934][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-14.54.58:967][499]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-14.54.58:967][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-14.54.58:972][499]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-14.54.58:972][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-14.54.58:997][499]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.11.23-14.54.58:997][499]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-14.54.58:997][499]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-14.55.08:989][542]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Interface\BI_SendAIController.uasset: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.55.08:989][542]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Interface\BI_SendAIController.uasset: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.55.08:989][542]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.55.08:989][542]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.55.08:990][542]LogLinker: Warning: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.55.08:990][542]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Interface\BI_SendAIController.uasset: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.55.08:990][542]LoadErrors: Failed to load /Game/Game/Blueprint/Nest/Parents/NestEnd.NestEnd_C Referenced by K2Node_FunctionEntry_0
+[2022.11.23-14.55.08:990][542]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Interface\BI_SendAIController.uasset: Failed to load '/Game/Game/Blueprint/Nest/Parents/NestEnd': Can't find file.
+[2022.11.23-14.55.08:990][542]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2022.11.23-14.55.08:990][542]LogBlueprint: Warning: [AssetLog]  (no disk path found): [Compiler] Invalid property 'Start' class, replaced with Object.  Please fix or remove.
+[2022.11.23-14.55.08:990][542]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2022.11.23-14.55.08:990][542]LogBlueprint: Warning: [AssetLog]  (no disk path found): [Compiler] Invalid property 'End' class, replaced with Object.  Please fix or remove.
+[2022.11.23-14.55.08:990][542]LogBlueprint: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Interface\BI_SendAIController.uasset: [Compiler] Invalid property 'Start' class, replaced with Object.  Please fix or remove.
+[2022.11.23-14.55.08:990][542]LogBlueprint: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Interface\BI_SendAIController.uasset: [Compiler] Invalid property 'End' class, replaced with Object.  Please fix or remove.
+[2022.11.23-14.55.09:007][542]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Interface/BI_SendAIController.BI_SendAIController
+[2022.11.23-14.55.17:058][460]BlueprintLog: New page: Compile BI_SendAIController
+[2022.11.23-14.55.17:058][460]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2022.11.23-14.55.17:059][460]LogBlueprint: Warning: [AssetLog]  (no disk path found): [Compiler] Invalid property 'Start' class, replaced with Object.  Please fix or remove.
+[2022.11.23-14.55.17:059][460]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2022.11.23-14.55.17:059][460]LogBlueprint: Warning: [AssetLog]  (no disk path found): [Compiler] Invalid property 'End' class, replaced with Object.  Please fix or remove.
+[2022.11.23-14.55.17:059][460]LogBlueprint: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Interface\BI_SendAIController.uasset: [Compiler] Invalid property 'Start' class, replaced with Object.  Please fix or remove.
+[2022.11.23-14.55.17:059][460]LogBlueprint: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Interface\BI_SendAIController.uasset: [Compiler] Invalid property 'End' class, replaced with Object.  Please fix or remove.
+[2022.11.23-14.55.17:106][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.11.23-14.55.23:298][145]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.11.23-14.55.30:290][885]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Interface/BI_Widgets.BI_Widgets
+[2022.11.23-14.55.47:486][844]BlueprintLog: New page: Compile BI_SendAIController
+[2022.11.23-14.55.47:486][844]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2022.11.23-14.55.47:486][844]LogBlueprint: Warning: [AssetLog]  (no disk path found): [Compiler] Invalid property 'Start' class, replaced with Object.  Please fix or remove.
+[2022.11.23-14.55.47:486][844]LogPackageName: Error: DoesPackageExist: DoesPackageExist FAILED: '' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
+[2022.11.23-14.55.47:486][844]LogBlueprint: Warning: [AssetLog]  (no disk path found): [Compiler] Invalid property 'End' class, replaced with Object.  Please fix or remove.
+[2022.11.23-14.55.47:486][844]LogBlueprint: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Interface\BI_SendAIController.uasset: [Compiler] Invalid property 'Start' class, replaced with Object.  Please fix or remove.
+[2022.11.23-14.55.47:486][844]LogBlueprint: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Interface\BI_SendAIController.uasset: [Compiler] Invalid property 'End' class, replaced with Object.  Please fix or remove.
+[2022.11.23-14.55.47:519][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.11.23-14.55.51:826][310]LogSlate: Window 'BI_Widgets' being destroyed
+[2022.11.23-14.55.51:830][310]LogSlate: Window 'BI_Widgets' being destroyed
+[2022.11.23-14.55.51:832][310]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-14.55.51:832][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-14.55.51:857][310]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.11.23-14.55.51:857][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.23-14.55.57:139][772]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_Buttons.WB_Buttons
+[2022.11.23-14.55.58:288][864]BlueprintLog: New page: Compile WB_Buttons
+[2022.11.23-14.55.58:290][864]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] Message node  Invalid Message Node  has an invalid interface.
+[2022.11.23-14.55.58:290][864]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] Message node  Invalid Message Node  has an invalid interface.
+[2022.11.23-14.55.58:290][864]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] Message node  Invalid Message Node  has an invalid interface.
+[2022.11.23-14.55.58:290][864]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] Invalid pin connection from ' Return Value ' to ' Target '. You may have changed the type after the connections were made.
+[2022.11.23-14.55.58:290][864]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] Invalid pin connection from ' Return Value ' to ' Target '. You may have changed the type after the connections were made.
+[2022.11.23-14.55.58:290][864]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] Invalid pin connection from ' Return Value ' to ' Target '. You may have changed the type after the connections were made.
+[2022.11.23-14.55.58:290][864]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.55.58:290][864]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.55.58:290][864]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] Could not find a function named "Press1" in 'WB_Buttons'.
+Make sure 'WB_Buttons' has been compiled for  Invalid Message Node
+[2022.11.23-14.55.58:290][864]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.55.58:290][864]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.55.58:290][864]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] Could not find a function named "Press2" in 'WB_Buttons'.
+Make sure 'WB_Buttons' has been compiled for  Invalid Message Node
+[2022.11.23-14.55.58:290][864]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.55.58:290][864]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] In use pin  Target  no longer exists on node  Invalid Message Node . Please refresh node or break links to remove pin.
+[2022.11.23-14.55.58:290][864]LogBlueprint: Error: [AssetLog] I:\garage-main\Content\UI\WB_Buttons.uasset: [Compiler] Could not find a function named "Press3" in 'WB_Buttons'.
+Make sure 'WB_Buttons' has been compiled for  Invalid Message Node
+[2022.11.23-14.55.58:305][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.11.23-14.55.58:957][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_Buttons" FILE="I:/garage-main/Content/UI/WB_Buttons.uasset" SILENT=true
+[2022.11.23-14.55.58:962][911]LogSavePackage: Moving 'I:/garage-main/Saved/WB_ButtonsF3BD80EE4BB80068E2D3E99FAF45DA8E.tmp' to 'I:/garage-main/Content/UI/WB_Buttons.uasset'
+[2022.11.23-14.55.58:969][911]AssetCheck: New page: Asset Save: WB_Buttons
+[2022.11.23-14.55.58:969][911]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WB_Buttons.WB_Buttons
+[2022.11.23-14.57.25:513][422]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.11.23-14.57.44:269][444]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Start\Start1.uasset: Failed to load '/Game/Game/Blueprint/AI/AIChar': Can't find file.
+[2022.11.23-14.57.44:269][444]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Start\Start1.uasset: Failed to load '/Game/Game/Blueprint/AI/AIChar': Can't find file.
+[2022.11.23-14.57.44:269][444]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Start\Start1.uasset: Failed to load '/Game/Game/Blueprint/Interface/BI_Widgets': Can't find file.
+[2022.11.23-14.57.44:269][444]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Start\Start1.uasset: Failed to load '/Game/Game/Blueprint/Interface/BI_Widgets': Can't find file.
+[2022.11.23-14.57.44:269][444]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Start\Start1.uasset: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndRed': Can't find file.
+[2022.11.23-14.57.44:269][444]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Start\Start1.uasset: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndRed': Can't find file.
+[2022.11.23-14.57.44:269][444]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Start\Start1.uasset: Failed to load '/Game/Game/Blueprint/AI/AIChar': Can't find file.
+[2022.11.23-14.57.44:269][444]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Start\Start1.uasset: Failed to load '/Game/Game/Blueprint/AI/LowPoly_Cat/Meshes/SM_CatAbyss': Can't find file.
+[2022.11.23-14.57.44:270][444]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Start\Start1.uasset: Failed to load '/Game/Game/Blueprint/AI/LowPoly_Cat/Meshes/SM_CatAbyss': Can't find file.
+[2022.11.23-14.57.44:270][444]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Start\Start1.uasset: Failed to load '/Game/Game/Blueprint/Interface/BI_Widgets': Can't find file.
+[2022.11.23-14.57.44:270][444]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Start\Start1.uasset: Failed to load '/Game/Game/Blueprint/Nest/End/BP_GarageEndRed': Can't find file.
+[2022.11.23-14.57.44:270][444]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Start\Start1.uasset: Failed to load '/Game/Game/Blueprint/AI/LowPoly_Cat/Meshes/SM_CatAbyss': Can't find file.
+[2022.11.23-14.57.44:270][444]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/Nest/Start/Start1.Start1_C
+[2022.11.23-14.57.44:270][444]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/Nest/Start/Start1.Start1_C
+[2022.11.23-14.57.44:270][444]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/Nest/Start/Start1.Start1_C
+[2022.11.23-14.57.44:270][444]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/Nest/Start/Start1.Start1_C
+[2022.11.23-14.57.44:270][444]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/Nest/Start/Start1.Start1_C
+[2022.11.23-14.57.44:270][444]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/Nest/Start/Start1.Start1_C
+[2022.11.23-14.57.44:270][444]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/Nest/Start/Start1.Start1_C
+[2022.11.23-14.57.44:270][444]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/Nest/Start/Start1.Start1_C
+[2022.11.23-14.57.44:270][444]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/Nest/Start/Start1.Start1_C
+[2022.11.23-14.57.44:270][444]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/Nest/Start/Start1.Start1_C
+[2022.11.23-14.57.44:270][444]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/Nest/Start/Start1.Start1_C
+[2022.11.23-14.57.44:270][444]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/Nest/Start/Start1.Start1_C
+[2022.11.23-14.57.44:270][444]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/Nest/Start/Start1.Start1_C
+[2022.11.23-14.57.44:270][444]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/Nest/Start/Start1.Start1_C
+[2022.11.23-14.57.44:270][444]LogLinker: Warning: Unable to load Default__Start1_C with outer Package /Game/Blueprint/Nest/Start/Start1 because its class does not exist
+[2022.11.23-14.57.44:271][444]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Start\Start1.uasset: Failed to load '/Game/Game/Blueprint/Interface/BI_Widgets': Can't find file.
+[2022.11.23-14.57.44:271][444]LoadErrors: Failed to load /Game/Game/Blueprint/Interface/BI_Widgets.BI_Widgets_C Referenced by Start1
+[2022.11.23-14.57.44:271][444]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/Nest/Start/Start1.Start1_C
+[2022.11.23-14.57.44:271][444]LogBlueprint: Warning: FMemberReference::ResolveMember (Press Button) bSelfContext == true, but no scope supplied!
+[2022.11.23-14.57.44:271][444]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Start\Start1.uasset: Failed to load '/Game/Game/Blueprint/Interface/BI_Widgets': Can't find file.
+[2022.11.23-14.57.44:271][444]LoadErrors: Failed to load /Game/Game/Blueprint/Interface/BI_Widgets.BI_Widgets_C Referenced by K2Node_Event_3
+[2022.11.23-14.57.44:271][444]LogLinker: Warning: [AssetLog] I:\garage-main\Content\Blueprint\Nest\Start\Start1.uasset: Failed to load '/Game/Game/Blueprint/Interface/BI_Widgets': Can't find file.
+[2022.11.23-14.57.44:271][444]LogLinker: Warning: CreateExport: Failed to load Parent for BlueprintGeneratedClass /Game/Blueprint/Nest/Start/Start1.Start1_C
+[2022.11.23-14.57.44:357][444]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprint/Nest/Start/Start1.Start1
+[2022.11.23-14.57.46:274][444]LogSlate: Window 'Message' being destroyed
+[2022.11.23-14.57.46:278][444]Message dialog closed, result: Yes, title: Message, text: Blueprint could not be loaded because it derives from an invalid class.  Check to make sure the parent class for this blueprint hasn't been removed! Do you want to continue (it can crash the editor)?
+[2022.11.23-14.57.46:288][444]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.11.23-14.57.46:554][444]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.265 s
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: === Handled ensure: ===
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: 
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: Ensure condition failed: BpClass != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/BlueprintGraph/Private/BlueprintActionFilter.cpp] [Line: 632]
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: Unable to resolve IsEventUnimplementable() - Blueprint (Start1) missing an authoratative class (skel: [NULL], generated: [NULL], parent: [NULL])
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: Stack: 
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6a3bbd4f UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6a207a8d UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6a208433 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6a2082cb UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6bc37dc6 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6bc61329 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6bc38402 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6bebec08 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6bef8d67 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb695f93a7 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb694f959d UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6beada41 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6bed4a05 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6bed046a UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6beac320 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6bed0adf UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6bcac5f0 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6bcca933 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6bcbfbb0 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6bced3c7 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6bdad25f UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6bdad838 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb647d7e86 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb714a2c11 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb714a3fad UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb714a3cda UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb535a9fdf UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb535aa200 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb53597c82 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb650db95d UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb6509a800 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb64ffb74c UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb64fb9357 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb64f18374 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb65006227 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb64ffb93b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb81512bf8 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb815968e7 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb8157f4ce UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffb81572de9 UE4Editor-Slate.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffbdbafbc8f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffbdbae9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffbdbafe389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffbdbae4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffc10d11c4c USER32.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffc10d10ea6 USER32.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffbdbaff914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ff7ee3c8848 UE4Editor.exe!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ff7ee3e117c UE4Editor.exe!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ff7ee3e125a UE4Editor.exe!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ff7ee3f52bd UE4Editor.exe!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ff7ee3f7fea UE4Editor.exe!UnknownFunction []
+[2022.11.23-14.57.46:554][444]LogOutputDevice: Error: [Callstack] 0x00007ffc11b65550 KERNEL32.DLL!UnknownFunction []
+[2022.11.23-14.57.46:555][444]LogOutputDevice: Error: [Callstack] 0x00007ffc12bc485b ntdll.dll!UnknownFunction []
+[2022.11.23-14.57.46:555][444]LogOutputDevice: Error: 
